@@ -88,7 +88,7 @@
     "depcheck": "^1.4.7",
     "ignore": "^7.0.6",
     "tsc-alias": "^1.9.1",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "vitest": "^4.1.10"
   }
 }
